@@ -40,4 +40,4 @@ I'm Dhruv, a passionate Web Developer dedicated to write clean, efficient, and i
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhrvshrm&show_icons=true&theme=radical)
